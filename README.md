@@ -12,7 +12,8 @@ To install from source with an existing [Go][go] installation, either use
 [go install][go-install]:
 
 ```
-go install github.com/google/log4jscanner@latest
+go install github.com/google/log4jscanner@latest 
+
 ```
 
 Or build from the repo directly:
